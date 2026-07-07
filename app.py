@@ -24,8 +24,8 @@ HTML_CONTENT = """<!DOCTYPE html>
     --princess-pink-deep: #e6a3f2;
     --princess-blue-deep: #9aa8ff;
     --princess-purple: #b98ff0;
-    --bg-pink-light: #FCEEFF;
-    --bg-blue-light: #E4E9FF;
+    --bg-pink-light: #f3e2fd;
+    --bg-blue-light: #d6ddfb;
     --text-dark: #3a2b57;
     --text-mid: #8a7aa8;
   }

@@ -404,7 +404,8 @@ HTML_CONTENT = """<!DOCTYPE html>
         "이십억 대비 우수한 품질로 가성비 뷰티의 대명사로 불리며, 전체 제품의 약 75%가 10달러 이하로 가격 진입장벽이 매우 낮다.",
         "Leaping Bunny·PETA 인증을 받은 비건·크루얼티프리 브랜드로, 고가 인기 제품의 '대응(대체품)'으로 틱톡과 Z세대 사이에서 큰 인기를 얻고 있다.",
         "타겟, 얼타 등 매스 리테일 채널 통해 미국 전역에서 폭넓게 구매 가능하다."
-      ] },
+      ],
+      news: [{ title: "e.l.f. Cosmetics Launches Legal-themed \"e.l.f.ino & schmarnes\" Campaign", link: "https://www.businesswire.com/news/home/20250810920072/en/e.l.f.-Cosmetics-Launches-Legal-themed-e.l.f.ino-schmarnes-Defending-the-Best-of-Beauty-at-Accessible-Prices", date: "2025-08" }, { title: "e.l.f. Cosmetics is First Brand to Launch Shoppable In-Stream Element on Twitch", link: "https://www.businesswire.com/news/home/20251015615060/en/e.l.f.-Cosmetics-is-First-Brand-to-Launch-Shoppable-In-Stream-Element-on-Twitch-Powered-by-Amazon-Ads", date: "2025-10" }] },
     { name: "Rare Beauty", heroProduct: "Soft Pinch Liquid Blush", priceRange: "$18–$32",
       retailer: "Sephora, Rare Beauty",
       imageUrl: "https://www.rarebeauty.com/cdn/shop/files/ECOMM-SP-LIQUID-BLUSH-DEWY-HOPE.jpg?format=pjpg&v=1762200490&width=1440",
@@ -415,7 +416,8 @@ HTML_CONTENT = """<!DOCTYPE html>
         "셀레나 고메즈가 설립한 브랜드로, 판매 수익의 1%를 정신 건강 지원 기금(Rare Impact Fund)에 기부하며 자기 수용과 포용의 핵심 메시지로 내세운다.",
         "세포라 중심 유통 브랜드로 매스와 프레스티지 사이의 '합리적 럭셔리' 가격대를 형성하고 있다.",
         "소프트 핀치 리퀴드 블러셔가 틱톡에서 바이럴 히트를 기록하며 브랜드 대표 제품이자 세대를 넘어선 남성·Z세대의 필수템으로 자리잡았다."
-      ] },
+      ],
+      news: [{ title: "Selena Gomez's Rare Beauty Crowned 2025's Most Popular Celebrity Beauty Brand", link: "https://cosmeticsbusiness.com/rare-beauty-crowned-2025-most-popular-celeb-beauty-brand", date: "2025" }, { title: "Selena Gomez's Rare Beauty to Launch at Ulta", link: "https://www.retaildive.com/news/selena-gomez-rare-beauty-ulta-launch/808847/", date: "2025" }] },
     { name: "Fenty Beauty", heroProduct: "Pro Filt'r Soft Matte Longwear Foundation", priceRange: "$20–$40",
       retailer: "Sephora, Fenty Beauty",
       imageUrl: "https://fentybeauty.com/cdn/shop/products/FB30006_FB0240_alt1.jpg?v=1762198551&width=1200",
@@ -426,7 +428,8 @@ HTML_CONTENT = """<!DOCTYPE html>
         "리한나가 설립한 브랜드로 출시 당시 파운데이션 40개 색조를 선보이며 업계의 색조 포용성 기준을 완전히 바꿔놓았다.",
         "'Beauty for All'을 슬로건으로 모든 피부톤을 포용하는 철학을 지향하며, 매스보다 높고 프레스티지보다는 낮은 '어세서블 럭셔리' 가격대를 형성한다.",
         "LVMH 산하 셀럽 브랜드으로서 화제성을 발판으로 글로벌 프레스티지 유통망에서 강력한 입지를 갖췄다."
-      ] },
+      ],
+      news: [{ title: "Fenty Skin Expands to Ulta Beauty with Exclusive Body Care Launch", link: "https://www.globalcosmeticsnews.com/fenty-skin-expands-to-ulta-beauty-with-exclusive-body-care-launch/", date: "2025-10" }, { title: "Fenty Beauty Just Turned WhatsApp Into Your Personal Beauty Advisor", link: "https://www.essence.com/news/money-career/fenty-beauty-ai-advisor-whatsapp-launch/", date: "2026-04" }] },
     { name: "Kylie Cosmetics", heroProduct: "Kylie Lip Kit (Matte Liquid Lipstick + Lip Liner)", priceRange: "$14–$45",
       retailer: "Kylie Cosmetics, Ulta Beauty",
       imageUrl: "https://kyliecosmetics.com/cdn/shop/products/matte_lip_kit_bare.jpg?v=1741809265&width=1800",
@@ -437,7 +440,8 @@ HTML_CONTENT = """<!DOCTYPE html>
         "카일리 제너가 립 키트(매트 리퀴드 립스틱+립 라이너) 하나로 시작해 1분 만에 완판되는 신화를 쓰며 급성장한 브랜드다.",
         "코티(Coty) 인수 이후 비건·클린 포뮬러로 재단장했으며, 강렬한 색조와 글래머러스한 메이크업 룩으로 유명하다.",
         "인스타그램·틱톡 등 소셜미디어와 인플루언서 마케팅에 기반을 둔 D2C 성공 사례로 꼽힌다."
-      ] },
+      ],
+      news: [{ title: "Kylie Cosmetics Celebrates a Decade of Beauty with 10-Year Anniversary", link: "https://www.morningstar.com/news/pr-newswire/20251021ny02322/kylie-cosmetics-celebrates-a-decade-of-beauty-with-10-year-anniversary", date: "2025-10" }, { title: "Kylie Jenner Talks 10 Years of Kylie Cosmetics, Lip Kits and More", link: "https://wwd.com/beauty-industry-news/beauty-features/kylie-jenner-kylie-cosmetics-10-years-interview-1238114373/", date: "2025-10" }] },
     { name: "Glossier", heroProduct: "Boy Brow", priceRange: "$14–$32",
       retailer: "Glossier, Sephora",
       imageUrl: "https://www.glossier.com/cdn/shop/files/glossier-boy-brow-black-carousel-01.png?v=1762200422",
@@ -448,7 +452,8 @@ HTML_CONTENT = """<!DOCTYPE html>
         "'피부가 먼저, 메이크업은 그다음'이라는 철학으로 자연스러운 노메이크업 룩을 지향한다.",
         "밀레니얼·Z세대를 겨냥한 미니멀 디자인과 친근한 톤의 브랜드로 강력한 컬트 팬덤을 구축했다.",
         "뷰티 블로그에서 출발해 인플루언서·직접 큐레이션된 콘텐츠 마케팅으로 성공한 대표적인 D2C 브랜드다."
-      ] },
+      ],
+      news: [{ title: "Glossier's New Exit Strategy", link: "https://puck.news/glossiers-new-exit-strategy/", date: "2025" }, { title: "South Of A Billion: Why Glossier's Era of Unicorn Hype May Be Over", link: "https://www.forbes.com/sites/sindhyavalloppillil/2025/04/11/south-of-a-billion-why-glossiers-era-of-unicorn-hype-may-be-over/", date: "2025-04" }] },
     { name: "Drunk Elephant", heroProduct: "Protini Polypeptide Firming Moisturizer", priceRange: "$26–$80",
       retailer: "Sephora, Ulta Beauty",
       imageUrl: "https://media.ulta.com/i/ulta/2588434",
@@ -459,7 +464,8 @@ HTML_CONTENT = """<!DOCTYPE html>
         "실리콘, 에센셜 오일, 인공 향료 등 자극 가능성이 있는 'Suspicious 6' 성분을 배제한 클린 뷰티일을 표방한다.",
         "피부와의 생체 친화성을 강조하며 임상적으로 검증된 활성 성분을 사용하는 프레스티지 스킨케어 브랜드다.",
         "인스타그래머와 인식된 이후에는 컬러풀한 패키지과 18~35세 소비자층 대상 브랜드 충성도를 유지하고 있다."
-      ] },
+      ],
+      news: [{ title: "Drunk Elephant Unveils New High-Potency Brand Identity", link: "https://www.hpcmagmea.com/2026/01/15/drunk-elephant-unveils-new-high-potency-brand-identity/", date: "2026-01" }, { title: "How Shiseido Plans to Bring Drunk Elephant Back from the Brink", link: "https://cosmeticsbusiness.com/shiseido-plans-to-bring-drunk-elephant-back-from-brink", date: "2025" }] },
     { name: "Kosas", heroProduct: "Revealer Concealer", priceRange: "$18–$42",
       retailer: "Sephora, Kosas.com",
       imageUrl: "https://kosas.com/cdn/shop/files/RC2024_01_vessel.jpg?v=1770932034&width=1920",
@@ -469,7 +475,8 @@ HTML_CONTENT = """<!DOCTYPE html>
       keyPoints: [
         "스킨케어 성분과 메이크업을 결합한 클린 뷰티 브랜드로, 대표작 Revealer Concealer는 히알루론산과 카페인이 함유되어 다크서클 커버와 피부 케 개선을 동시에 제공한다.",
         "일론(하이엔리 비건 등)의 지지를 받은 틱톡에서 바이럴을 일으키며 세포라 베스트셀러 리스트에 꾸준히 이름을 올리고 있다."
-      ] },
+      ],
+      news: [{ title: "How Sheena Zadeh Built $150 Million Clean Beauty Brand Kosas", link: "https://www.forbes.com/sites/simonemelvin/2025/09/24/how-sheena-zadeh-built-kosas-150-million-clean-beauty-brand/", date: "2025-09" }, { title: "Kosas Sets Sights on Middle East With Sephora Partnership", link: "https://wwd.com/beauty-industry-news/color-cosmetics/kosas-middle-east-sephora-zadeh-1236614423/", date: "" }] },
     { name: "Milk Makeup", heroProduct: "Hydro Grip Primer", priceRange: "$20–$38",
       retailer: "Sephora, Ulta Beauty",
       imageUrl: "https://media.ulta.com/i/ulta/2634881?w=600&h=600&fmt=auto",
@@ -479,7 +486,8 @@ HTML_CONTENT = """<!DOCTYPE html>
       keyPoints: [
         "뉴욕 감성의 젠더 뉴트럴·클린 뷰티 브랜드로, 대표작 Hydro Grip Primer는 히알루론산과 나이아신아마이드로 최대 12시간 지속력을 구현한다.",
         "2,500개 이상의 유해 성분을 배제한 비건·크루얼티프리 포뮬러를 내세우며, 실용적이고 미니멀한 이미지로 젊은 세대에게 인기가 높다."
-      ] },
+      ],
+      news: [{ title: "EXCLUSIVE: Milk Makeup Is Launching at Ulta Beauty", link: "https://wwd.com/beauty-industry-news/beauty-features/milk-makeup-ulta-beauty-launch-1236875339/", date: "" }, { title: "Milk Makeup Net Revenue Declines 20%", link: "https://www.businessoffashion.com/news/beauty/milk-makeup-net-revenue-declines-20/", date: "" }] },
     { name: "Summer Fridays", heroProduct: "Jet Lag Mask", priceRange: "$24–$65",
       retailer: "Sephora, Summer Fridays",
       imageUrl: "https://summerfridays.com/cdn/shop/files/Jet-Lag-Main-Square.jpg?v=1720469004&width=1000",
@@ -489,7 +497,8 @@ HTML_CONTENT = """<!DOCTYPE html>
       keyPoints: [
         "인플루언서 마리안나 힐리스 리즈 굿맨이 공동 창립한 브랜드로, 대표작 Jet Lag Mask는 건조하고 지친 피부에 즉각적인 수분과 광채를 부여한다.",
         "복잡한 루틴 없이 누구든 쉽게 사용할 수 있는 멀티유즈 제품 구성으로 '인스타 럭셔리' 이미지를 구축했다."
-      ] },
+      ],
+      news: [{ title: "Summer Fridays x Gap Launches First Apparel Collaboration", link: "https://www.forbes.com/sites/rachelburchfield/2025/12/08/summer-fridays-launches-its-first-apparel-collaboration-with-gap-a-partnership-that-felt-so-natural-from-the-start/", date: "2025-12" }, { title: "How Summer Fridays Built Beauty's Most Aspirational Feeling", link: "https://www.forbes.com/sites/karineldor/2026/05/11/the-business-of-summer-how-summer-fridays-built-beautys-most-aspirational-feeling/", date: "2026-05" }] },
     { name: "Ilia Beauty", heroProduct: "Super Serum Skin Tint SPF 40", priceRange: "$24–$48",
       retailer: "Sephora, Ulta Beauty",
       imageUrl: "https://iliabeauty.com/cdn/shop/files/Skyeppageimage_5450a883-1724-4b79-960c-26a3874d09fc.jpg?v=1710264865",
@@ -499,7 +508,8 @@ HTML_CONTENT = """<!DOCTYPE html>
       keyPoints: [
         "클린 뷰티의 선도주자로, 대표작 Super Serum Skin Tint SPF 40은 세럼·미네랄 자외선 차단제·틴트 커버리지를 한 번에 해결하며 '스킨 헬스' 카테고리를 대중화시켰다.",
         "무향료, 무실리콘 등 까다로운 클린 포뮬 이서 기준을 지키면서도 다양한 뷰티 니즈를 아우른다."
-      ] },
+      ],
+      news: [{ title: "'My Kidneys Shut Down'?봊lia Beauty Founder's Wake-Up Call After $100M Scale", link: "https://www.forbes.com/sites/meganbruneau/2025/06/21/my-kidneys-shut-downilia-beauty-founders-wake-up-call-after-scaling-to-100m/", date: "2025-06" }, { title: "Ilia Beauty Taps Haim to Front its New Campaign", link: "https://wwd.com/pop-culture/new-fashion-releases/ilia-beauty-haim-campaign-1239001235/", date: "" }] },
     { name: "Youth To The People", heroProduct: "Superfood Cleanser", priceRange: "$16–$58",
       retailer: "Sephora, Target",
       imageUrl: "https://target.scene7.com/is/image/Target/GUEST_3c8e2dc5-0100-4a84-b221-bc88da8bc194?wid=300&hei=300&fmt=pjpeg",
@@ -509,7 +519,8 @@ HTML_CONTENT = """<!DOCTYPE html>
       keyPoints: [
         "3대에 걸친 피부과학 전문성을 발판으로 케일, 시금치, 녹차 등 슈퍼푸드 추출물과 임상적으로 검증된 비건 액티브 성분을 결합한 클린 스킨케어 브랜드다.",
         "대표작 Superfood Cleanser는 상쾌한 젤 타입 클렌저이면서 메이크업 제거와 항산화 케어를 동시에 제공해 '컬트 클래식'으로 불린다."
-      ] },
+      ],
+      news: [{ title: "Youth to the People Celebrates 10 Years of Skin Health", link: "https://www.prnewswire.com/news-releases/youth-to-the-people-celebrates-10-years-of-skin-health-302365703.html", date: "2025-02" }, { title: "Youth To The People Launches Community To The People Program", link: "https://www.prnewswire.com/news-releases/youth-to-the-people-a-member-of-1-for-the-planet-is-collaborating-with-brave-trails-and-the-american-civil-liberties-union-to-launch-their-community-to-the-people-program-302564571.html", date: "2025-09" }] },
     { name: "First Aid Beauty", heroProduct: "Ultra Repair Cream", priceRange: "$14–$48",
       retailer: "Ulta Beauty, Target",
       imageUrl: "https://media.ulta.com/i/ulta/2295764?w=600&h=600&fmt=auto",
@@ -519,7 +530,8 @@ HTML_CONTENT = """<!DOCTYPE html>
       keyPoints: [
         "피부과 전문의 및 환자와의 협업을 통해 민감성 피부의 응급 케어에 특화된 브랜드로, 대표작 Ultra Repair Cream은 콜로이달 오트밀 성분으로 피부 장벽 개선 효과가 임상적으로 입증되었다.",
         "스테로이드 프리, 비건, 크루얼티프리 포뮬러를 강조하며 온 가족이 안심하고 사용할 수 있는 이미지를 갖고 있다."
-      ] },
+      ],
+      news: [{ title: "First Aid Beauty Recalls Ultra Repair Cream Coconut Vanilla Due to FDA Concerns", link: "https://www.goodmorningamerica.com/style/story/aid-beauty-recalls-ultra-repair-cream-coconut-vanilla-118095608", date: "2025-01" }, { title: "First Aid Beauty's Ultra Repair Cream Is Under $20 Right Now", link: "https://www.nbcnews.com/select/shopping/first-aid-beauty-ultra-repair-cream-ulta-deal-of-the-day-2025-rcna230926", date: "2025-09" }] },
     { name: "CeraVe", heroProduct: "Moisturizing Cream", priceRange: "$8–$20",
       retailer: "Target, CVS",
       imageUrl: "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/americas/us/products-v4/moisturizing-cream/cerave_moisturizing_cream_16oz_jar_front-700x700-v3.jpg?rev=7e37e9cc45754615b1532d77df5a0b52",
@@ -529,7 +541,8 @@ HTML_CONTENT = """<!DOCTYPE html>
       keyPoints: [
         "피부과 전문의들과 공동 개발한 브랜드로, 세라마이드와 히알루론산을 함유해 피부 장벽을 회복시키는 것이 핵심 강점이다.",
         "저렴한 드럭스토어 가격대에서 임상적으로 검증된 고기능 성분을 담은 미국 아마존 스킨케어 판매 1위를 차지할 만큼 폭넓은 대중적 신뢰를 얻고 있다."
-      ] },
+      ],
+      news: [{ title: "CeraVe Marks 20 Years of Therapeutic Skincare Developed with Dermatologists with Five New Innovations", link: "https://www.prnewswire.com/news-releases/cerave-marks-20-years-of-therapeutic-skincare-developed-with-dermatologists-with-five-new-innovations-302506352.html", date: "2025-07" }, { title: "CeraVe Launches Hydrating HA Water Gel Face Moisturizer, Exclusively on Amazon", link: "https://www.prnewswire.com/news-releases/cerave-launches-hydrating-ha-water-gel-face-moisturizer-with-new-patent-pending-ceramide-booster-technology-exclusively-on-amazon-302810229.html", date: "2026-06" }] },
     { name: "Paula's Choice", heroProduct: "Skin Perfecting 2% BHA Liquid Exfoliant", priceRange: "$19–$50",
       retailer: "Sephora, Amazon",
       imageUrl: "https://www.paulaschoice.com/dw/image/v2/BBNX_PRD/on/demandware.static/-/Sites-pc-catalog/default/dw006e394e/images/products/2-percent-bha-liquid-exfoliant-2010-portrait.png?sw=2000&sfrm=png",
@@ -539,7 +552,8 @@ HTML_CONTENT = """<!DOCTYPE html>
       keyPoints: [
         "창업자가 직접 성분의 과학적 근거를 검증하며 시작한 브랜드로, 인공 향료를 배제하고 임상 데이터에 기반한 처방을 고수한다.",
         "2% BHA 리퀴드 익스폴리언트는 모공 관리와 각질 케어의 대명사로 불리는 글로벌 베스트셀러다."
-      ] },
+      ],
+      news: [{ title: "Paula's Choice Launches 'Breakthrough' CellularYouth Longevity Serum", link: "https://www.forbes.com/sites/dahvishira/2025/12/17/paulas-choice-launches-breakthrough-cellularyouth-longevity-serum/", date: "2025-12" }, { title: "Paula's Choice Finally Arrives at Sephora", link: "https://www.parisselectbook.com/en/2025/03/14/paulas-choice-finally-arrives-at-sephora/", date: "2025-03" }] },
     { name: "Supergoop!", heroProduct: "Unseen Sunscreen", priceRange: "$20–$48",
       retailer: "Sephora, Ulta Beauty",
       imageUrl: "https://media.ulta.com/i/ulta/2632648?w=500&h=500",
@@ -549,7 +563,8 @@ HTML_CONTENT = """<!DOCTYPE html>
       keyPoints: [
         "선케어에만 집중하는 프레스티지 브랜드로, 투명하고 향이 없는 텍스처로 매일 자외선 차단제를 바르는 습관을 대중화시켰다.",
         "선케어 겸 메이크업 프라이머 역할까지 겸하는 제품으로 입소문을 타며 브랜드에 대한 팬층이 두터웠다."
-      ] },
+      ],
+      news: [{ title: "Supergoop! Launches Dedicated U.S. Storefront in Amazon Premium Beauty", link: "https://www.prnewswire.com/news-releases/supergoop-launches-dedicated-us-storefront-in-amazon-premium-beauty-timed-to-skin-cancer-awareness-month-302776066.html", date: "2025-05" }, { title: "Supergoop Taps Amazon Vet as CEO", link: "https://www.retaildive.com/news/supergoop-names-amazon-vet-melis-del-rey-ceo/806763/", date: "2025-12" }] },
     { name: "Tower 28 Beauty", heroProduct: "SOS Daily Rescue Facial Spray", priceRange: "$12–$28",
       retailer: "Sephora, Amazon",
       imageUrl: "https://www.tower28beauty.com/cdn/shop/files/SOS_20Spray_20_E2_80_94_C2_A04_20oz.webp?v=1762649181",
@@ -559,7 +574,8 @@ HTML_CONTENT = """<!DOCTYPE html>
       keyPoints: [
         "민감성·습진 피부도 사용할 수 있도록 미국 습진협회(NEA) 가이드라인을 100% 준수하는 저자극 클린 뷰티 브랜드다.",
         "차아염소산 성분의 SOS 스프레이는 즉각 효과로 틱톡에서 입소문이 나며 브랜드를 대표하는 히트 제품이 되었다."
-      ] },
+      ],
+      news: [{ title: "Tower 28: A Skin-Care and Makeup Brand Catering to Those With Sensitive Skin", link: "https://fashionista.com/2025/04/tower-28-beauty-brand", date: "2025-04" }, { title: "Executives From Summer Fridays, Tower 28, Polite Society and More Headline 2025 WWD L.A. Beauty Forum", link: "https://wwd.com/beauty-industry-news/beauty-features/summer-fridays-tower-28-wwd-los-angeles-beauty-forum-2025-1238239917/", date: "2025-10" }] },
     { name: "Merit Beauty", heroProduct: "Shade Slick Tinted Lip Oil", priceRange: "$22–$46",
       retailer: "Sephora",
       imageUrl: "https://www.meritbeauty.com/cdn/shop/files/MERIT25-ShadeSlickSheen-Product_7ff61674-8d3e-4ad6-afc6-cf35f17e1105.jpg?v=1744400771",
@@ -569,7 +585,8 @@ HTML_CONTENT = """<!DOCTYPE html>
       keyPoints: [
         "'5분 완성 메이크업'을 컨셉트로, 적은 스텝과 절제된 컬러로 자연스러운 피부 표현을 추구하는 미니멀 뷰티 브랜드다.",
         "아이돌 셀레브리티 립 오일 쉐이드 슬릭은 세포라 클린 립글로스 부문 1위를 기록할 만큼 브랜드를 대표하는 히트 제품이다."
-      ] },
+      ],
+      news: [{ title: "Merit Beauty At 5: Why the Brand Is Still Committed to Minimalism", link: "https://www.forbes.com/sites/rachelburchfield/2025/12/29/as-merit-beauty-celebrates-its-5th-anniversary-it-is-still-committed-to-a-minimalistic-approach-and-a-north-star-of-beauty-with-intention/", date: "2025-12" }, { title: "Merit Isn't For Beauty Lovers. That's the Point.", link: "https://www.businessoffashion.com/articles/beauty/merit-revenue-200m-growth-sale-exit/", date: "" }] },
     { name: "Haus Labs", heroProduct: "Triclone Skin Tech Foundation", priceRange: "$26–$52",
       retailer: "Sephora",
       imageUrl: "https://www.hauslabs.com/cdn/shop/files/HausLabs_4_silo_Foundation_Closed_230_4c53cd5d-53e7-4d99-a42b-6fafaf764107.png?v=1779230504",
@@ -579,7 +596,8 @@ HTML_CONTENT = """<!DOCTYPE html>
       keyPoints: [
         "레이디 가가가 설립한 브랜드로, 발효 나이아신아마이드 등 스킨케어 성분을 메이크업에 접목한 '클린 아티스트리'를 지향한다.",
         "51가지 색조의 폭넓은 파운데이션 라인으로 포용성을 강조하며, 틱톡에서 대규모 조회수를 기록한 바이럴 히트 제품이다."
-      ] },
+      ],
+      news: [{ title: "Haus Labs by Lady Gaga Expands Complexion Offerings With Precision Sculpt Shaping Balm", link: "https://wwd.com/beauty-industry-news/color-cosmetics/haus-labs-by-lady-gaga-precision-sculpt-shaping-balm-1238034968/", date: "2025-08" }, { title: "Sephora Boosts APAC Portfolio With Haus Labs by Lady Gaga Launch in SEA, Oceania and HK", link: "https://www.cosmeticsdesign-asia.com/Article/2025/05/14/sephora-boosts-apac-portfolio-with-haus-labs-by-lady-gaga-launch-in-sea-oceania-and-hk/", date: "2025-05" }] },
     { name: "Morphe", heroProduct: "35O Supernatural Glow Eyeshadow Palette", priceRange: "$10–$50",
       retailer: "Ulta Beauty, Target",
       imageUrl: "https://m.media-amazon.com/images/I/711+Jvr4WpL._SL1500_.jpg",
@@ -589,7 +607,8 @@ HTML_CONTENT = """<!DOCTYPE html>
       keyPoints: [
         "유튜버·인플루언서와의 협업을 통해 급성장한 브랜드로, 가성비 좋은 대용량 아이섀도 팔레트와 브러시 세트로 유명하다.",
         "2030 초반 Z세대를 주요 타겟으로 일찍이 트렌드를 반영하고 다양한 컬러와 실험을 합리적인 가격에 제공하는 것이 강점이다."
-      ] },
+      ],
+      news: [{ title: "Morphe Wants to Become Product-First, Not Influencer-First", link: "https://wwd.com/beauty-industry-news/beauty-features/morphe-wants-to-become-product-first-not-influencer-first-1235610675/", date: "" }, { title: "Can Morphe Execute a Big Comeback?", link: "https://www.beautyindependent.com/morphe-execute-big-comeback/", date: "" }] },
     { name: "Anastasia Beverly Hills", heroProduct: "Brow Wiz", priceRange: "$23–$45",
       retailer: "Sephora, Ulta Beauty",
       imageUrl: "https://media.ulta.com/i/ulta/2162560?w=500&h=500",
@@ -599,7 +618,8 @@ HTML_CONTENT = """<!DOCTYPE html>
       keyPoints: [
         "Brow Wiz, Dipbrow Pomade 등 아이브로우 제품으로 '눈썹 정석시대'를 연 브랜드로, 브로우 카테고리의 표준으로 자리잡았다.",
         "Soft Glam, Norvina 시리즈 등 고발색 아이섀도 팔레트로도 유명하며 전문 메이크업 아티스트와 인플루언서들에게 폭넓게 사랑받는다."
-      ] },
+      ],
+      news: [{ title: "Anastasia Beverly Hills Completes Recapitalization Transaction", link: "https://www.prnewswire.com/news-releases/anastasia-beverly-hills-completes-recapitalization-transaction-302649244.html", date: "2025-12" }, { title: "Anastasia Beverly Hills Owner Injects $225 Million Into Brand", link: "https://www.businessoffashion.com/news/beauty/anastasia-beverly-hills-owner-injects-225-million-into-brand/", date: "2025-12" }] },
     { name: "Too Faced", heroProduct: "Better Than Sex Mascara", priceRange: "$12–$60",
       retailer: "Ulta Beauty, Sephora",
       imageUrl: "https://media.ulta.com/i/ulta/2263444",
@@ -609,7 +629,8 @@ HTML_CONTENT = """<!DOCTYPE html>
       keyPoints: [
         "발랄하고 여성스러운 브랜드 이미지와 재미있는 패키지 디자인으로 차별화되는 감성 마케팅에 특화됐다.",
         "전 세계에서 7초에 하나씩 팔린다는 베스트셀러 마스카라 Better Than Sex로 대표되며, 크루얼티프리 인증과 다양한 비건 옵션을 갖추고 있다."
-      ] },
+      ],
+      news: [{ title: "How Est챕e Lauder's Too Faced Created Its First AI Ad Campaign With Adobe", link: "https://www.retailbrew.com/stories/2025/10/30/how-estee-lauder-s-too-faced-created-its-first-ai-ad-campaign-with-adobe", date: "2025-10" }, { title: "Too Faced Joins Amazon's Premium Beauty Store", link: "https://www.retaildive.com/news/too-faced-amazon-premium-beauty-store/718694/", date: "" }] },
     { name: "Urban Decay", heroProduct: "Naked3 Eyeshadow Palette", priceRange: "$19–$59",
       retailer: "Ulta Beauty, Sephora",
       imageUrl: "https://media.ulta.com/i/ulta/2266731?w=500&h=500",
@@ -619,7 +640,8 @@ HTML_CONTENT = """<!DOCTYPE html>
       keyPoints: [
         "'Beauty with an Edge'라는 슬로건 아래 반항적이고 감성 강한 브랜드 정체성을 구축한 프레스티지 브랜드다.",
         "누드 계 아이섀도의 대명사인 Naked 팔레트 시리즈는 출시 후 10억 달러 이상의 매출을 기록한 역대급 스테디셀러다."
-      ] },
+      ],
+      news: [{ title: "Urban Decay Pushes Lash Boundaries With Tube Job Tubing Mascara", link: "https://www.prnewswire.com/news-releases/urban-decay-pushes-lash-boundaries-with-tube-job-tubing-mascara--a-next-generation-innovation-for-droop-proof-lift-and-weightless-length-302643408.html", date: "2025-12" }, { title: "Dove Cameron Teams Up With Urban Decay to Launch a New Era of Expression", link: "https://www.latfusa.com/article/2025/08/dove-cameron-teams-up-with-urban-decay-to-launch-a-new-era-of-expression", date: "2025-08" }] },
     { name: "NARS", heroProduct: "Orgasm Blush", priceRange: "$29–$54",
       retailer: "Sephora, Ulta Beauty",
       imageUrl: "https://www.narscosmetics.com/dw/image/v2/BBSK_PRD/on/demandware.static/-/Sites-itemmaster_NARS/default/dw6b35594b/blush_medium/orgasmMedium.png?sw=395&sh=450&sm=fit",
@@ -629,7 +651,8 @@ HTML_CONTENT = """<!DOCTYPE html>
       keyPoints: [
         "프랑스 출신 메이크업 아티스트 프랑수아 나스가 1994년 설립한 브랜드로, 세련된 프리지즘 감성과 전문 아티스트의 시각 노하우가 특징이다.",
         "1999년 출시된 시그니처 블러셔 Orgasm은 별도의 마케팅 없이 입소문만으로 25년 넘게 미국 판매 1위 블러셔 자리를 지키고 있다."
-      ] },
+      ],
+      news: [{ title: "Kaia Gerber Is Global Brand Ambassador of NARS", link: "https://hypebae.com/2025/12/kaia-gerber-nars-global-brand-ambassador-campaign", date: "2025-12" }, { title: "Nars Cosmetics Partners With Tira to Expand in India", link: "https://www.globalcosmeticsnews.com/nars-cosmetics-partners-with-tira-to-expand-in-india/", date: "" }] },
     { name: "Clinique", heroProduct: "Dramatically Different Moisturizing Lotion+", priceRange: "$13–$68",
       retailer: "Ulta Beauty, Macy's",
       imageUrl: "https://media.ulta.com/i/ulta/2261902?w=500&h=500",
@@ -639,7 +662,8 @@ HTML_CONTENT = """<!DOCTYPE html>
       keyPoints: [
         "1968년 피부과 전문의와 공동 개발한 세계 최초의 알러지 테스트 완료·향료 무첨가 브랜드로, 민감성 피부도 안심하고 쓸 수 있는 저자극 포뮬러로 신뢰받는다.",
         "대표 제품인 Dramatically Different Moisturizing Lotion+은 전 세계에서 6초에 하나씩 팔리는 브랜드 최고 베스트셀러다."
-      ] },
+      ],
+      news: [{ title: "Clinique Doubles Down on Growth Strategy With More Launches, First TV Ad in a Decade", link: "https://wwd.com/beauty-industry-news/skin-care/clinique-doubles-down-strategy-launches-fist-tv-ad-decade-1237917861/", date: "" }, { title: "Glossy Pop Newsletter: Clinique Launches First-Ever 'Creator-Led' Campaign", link: "https://www.glossy.co/beauty/glossy-pop-newsletter-clinique-launches-first-ever-creator-led-campaign/", date: "" }] },
 
     // ---- 아래 76개는 데모용 가상 데이터입니다 (브랜드명은 실존, 세부 수치는 참고용으로 임의 작성) ----
     { name: "Maybelline New York", heroProduct: "Great Lash Mascara", priceRange: "$6–$13", retailer: "Target, CVS",
@@ -1156,6 +1180,20 @@ HTML_CONTENT = """<!DOCTYPE html>
     container.innerHTML = `<div class="fallback-item">"${brand}" 관련 최근 뉴스를 찾지 못했습니다. <a href="${searchUrl}" target="_blank" rel="noopener noreferrer">Google 뉴스에서 직접 확인하기</a></div>`;
   }
 
+  function renderCuratedNews(items) {
+    const container = document.getElementById("newsContainer");
+    const list = document.createElement("div");
+    list.className = "news-list";
+    items.forEach(item => {
+      const div = document.createElement("div");
+      div.className = "news-item";
+      div.innerHTML = `<a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a><div class="date">${item.date || ""}</div>`;
+      list.appendChild(div);
+    });
+    container.innerHTML = "";
+    container.appendChild(list);
+  }
+
   async function renderNews(brand) {
     const container = document.getElementById("newsContainer");
 
@@ -1192,15 +1230,20 @@ HTML_CONTENT = """<!DOCTYPE html>
 
     document.getElementById("resultsArea").style.display = "block";
     renderChannelLinks(brand);
-    renderNews(brand);
 
     const brandData = findBrand(brand);
     if (brandData) {
       renderProfile(brandData);
       renderReview(brandData);
+      if (brandData.news && brandData.news.length > 0) {
+        renderCuratedNews(brandData.news);
+      } else {
+        renderNews(brand);
+      }
     } else {
       renderNotFound(brand);
       renderReviewEmpty();
+      renderNews(brand);
     }
   }
 

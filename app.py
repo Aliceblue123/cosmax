@@ -34,9 +34,7 @@ HTML_CONTENT = """<!DOCTYPE html>
     font-family: "Poppins", "Noto Sans KR", "Malgun Gothic", sans-serif;
     color: var(--text-dark);
     min-height: 100vh;
-    background:
-      radial-gradient(circle, rgba(255,255,255,0.75) 1.5px, transparent 1.8px) 0 0/30px 30px,
-      linear-gradient(135deg, var(--bg-pink-light) 0%, var(--bg-blue-light) 100%);
+    background: linear-gradient(135deg, var(--bg-pink-light) 0%, var(--bg-blue-light) 100%);
     background-attachment: fixed;
     padding: 32px 16px 60px;
     position: relative;

@@ -40,6 +40,13 @@ HTML_CONTENT = """<!DOCTYPE html>
     position: relative;
     overflow-x: hidden;
   }
+  .bg-sparkle {
+    position: fixed;
+    z-index: 0;
+    color: var(--princess-purple);
+    opacity: 0.35;
+    pointer-events: none;
+  }
   .container {
     max-width: 780px;
     margin: 0 auto;
@@ -293,6 +300,10 @@ HTML_CONTENT = """<!DOCTYPE html>
 </style>
 </head>
 <body>
+<svg class="bg-sparkle" style="width:22px; top:12%; left:8%;" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg>
+<svg class="bg-sparkle" style="width:14px; top:65%; left:5%;" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg>
+<svg class="bg-sparkle" style="width:18px; top:20%; right:7%;" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg>
+<svg class="bg-sparkle" style="width:12px; bottom:10%; right:10%;" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg>
 <div class="container">
   <div class="hero">
     <svg class="tiara-icon" viewBox="0 0 320 150" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">

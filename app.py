@@ -43,8 +43,8 @@ HTML_CONTENT = """<!DOCTYPE html>
   .bg-sparkle {
     position: fixed;
     z-index: 0;
-    color: var(--princess-purple);
-    opacity: 0.35;
+    color: #fff;
+    opacity: 0.7;
     pointer-events: none;
   }
   .container {
@@ -300,10 +300,16 @@ HTML_CONTENT = """<!DOCTYPE html>
 </style>
 </head>
 <body>
-<svg class="bg-sparkle" style="width:22px; top:12%; left:8%;" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg>
-<svg class="bg-sparkle" style="width:14px; top:65%; left:5%;" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg>
-<svg class="bg-sparkle" style="width:18px; top:20%; right:7%;" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg>
-<svg class="bg-sparkle" style="width:12px; bottom:10%; right:10%;" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg>
+<svg class="bg-sparkle" style="width:20px; top:8%; left:8%;" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg>
+<svg class="bg-sparkle" style="width:14px; top:15%; right:10%;" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg>
+<svg class="bg-sparkle" style="width:16px; top:28%; left:22%;" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg>
+<svg class="bg-sparkle" style="width:12px; top:35%; right:26%;" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg>
+<svg class="bg-sparkle" style="width:18px; top:50%; left:6%;" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg>
+<svg class="bg-sparkle" style="width:14px; top:55%; right:8%;" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg>
+<svg class="bg-sparkle" style="width:12px; top:68%; left:30%;" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg>
+<svg class="bg-sparkle" style="width:16px; top:75%; right:33%;" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg>
+<svg class="bg-sparkle" style="width:20px; bottom:14%; left:12%;" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg>
+<svg class="bg-sparkle" style="width:14px; bottom:6%; right:12%;" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0 L14 10 L24 12 L14 14 L12 24 L10 14 L0 12 L10 10 Z"/></svg>
 <div class="container">
   <div class="hero">
     <svg class="tiara-icon" viewBox="0 0 320 150" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">

@@ -24,6 +24,8 @@ HTML_CONTENT = """<!DOCTYPE html>
     --princess-pink-deep: #e6a3f2;
     --princess-blue-deep: #9aa8ff;
     --princess-purple: #b98ff0;
+    --bg-pink-light: #FCEEFF;
+    --bg-blue-light: #E4E9FF;
     --text-dark: #3a2b57;
     --text-mid: #8a7aa8;
   }
@@ -34,29 +36,11 @@ HTML_CONTENT = """<!DOCTYPE html>
     min-height: 100vh;
     background:
       radial-gradient(circle, rgba(255,255,255,0.75) 1.5px, transparent 1.8px) 0 0/30px 30px,
-      linear-gradient(135deg, var(--princess-pink) 0%, var(--princess-blue) 100%);
+      linear-gradient(135deg, var(--bg-pink-light) 0%, var(--bg-blue-light) 100%);
     background-attachment: fixed;
     padding: 32px 16px 60px;
     position: relative;
     overflow-x: hidden;
-  }
-  body::before, body::after {
-    content: "";
-    position: fixed;
-    border-radius: 50%;
-    filter: blur(60px);
-    opacity: 0.6;
-    z-index: 0;
-  }
-  body::before {
-    width: 320px; height: 320px;
-    background: var(--princess-pink-deep);
-    top: -80px; left: -80px;
-  }
-  body::after {
-    width: 360px; height: 360px;
-    background: var(--princess-blue-deep);
-    bottom: -100px; right: -100px;
   }
   .container {
     max-width: 780px;

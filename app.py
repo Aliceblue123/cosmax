@@ -405,7 +405,7 @@ HTML_CONTENT = """<!DOCTYPE html>
         "Leaping Bunny·PETA 인증을 받은 비건·크루얼티프리 브랜드로, 고가 인기 제품의 '대응(대체품)'으로 틱톡과 Z세대 사이에서 큰 인기를 얻고 있다.",
         "타겟, 얼타 등 매스 리테일 채널 통해 미국 전역에서 폭넓게 구매 가능하다."
       ],
-      news: [{ title: "e.l.f. Cosmetics Launches Legal-themed \"e.l.f.ino & schmarnes\" Campaign", link: "https://www.businesswire.com/news/home/20250810920072/en/e.l.f.-Cosmetics-Launches-Legal-themed-e.l.f.ino-schmarnes-Defending-the-Best-of-Beauty-at-Accessible-Prices", date: "2025-08" }, { title: "e.l.f. Cosmetics is First Brand to Launch Shoppable In-Stream Element on Twitch", link: "https://www.businesswire.com/news/home/20251015615060/en/e.l.f.-Cosmetics-is-First-Brand-to-Launch-Shoppable-In-Stream-Element-on-Twitch-Powered-by-Amazon-Ads", date: "2025-10" }] },
+      news: [{ title: "e.l.f. Cosmetics Launches Legal-themed 'e.l.f.ino & schmarnes' Campaign", link: "https://www.businesswire.com/news/home/20250810920072/en/e.l.f.-Cosmetics-Launches-Legal-themed-e.l.f.ino-schmarnes-Defending-the-Best-of-Beauty-at-Accessible-Prices", date: "2025-08" }, { title: "e.l.f. Cosmetics is First Brand to Launch Shoppable In-Stream Element on Twitch", link: "https://www.businesswire.com/news/home/20251015615060/en/e.l.f.-Cosmetics-is-First-Brand-to-Launch-Shoppable-In-Stream-Element-on-Twitch-Powered-by-Amazon-Ads", date: "2025-10" }] },
     { name: "Rare Beauty", heroProduct: "Soft Pinch Liquid Blush", priceRange: "$18–$32",
       retailer: "Sephora, Rare Beauty",
       imageUrl: "https://www.rarebeauty.com/cdn/shop/files/ECOMM-SP-LIQUID-BLUSH-DEWY-HOPE.jpg?format=pjpg&v=1762200490&width=1440",

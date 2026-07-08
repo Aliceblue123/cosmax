@@ -509,7 +509,7 @@ HTML_CONTENT = """<!DOCTYPE html>
         "클린 뷰티의 선도주자로, 대표작 Super Serum Skin Tint SPF 40은 세럼·미네랄 자외선 차단제·틴트 커버리지를 한 번에 해결하며 '스킨 헬스' 카테고리를 대중화시켰다.",
         "무향료, 무실리콘 등 까다로운 클린 포뮬 이서 기준을 지키면서도 다양한 뷰티 니즈를 아우른다."
       ],
-      news: [{ title: "'My Kidneys Shut Down'?봊lia Beauty Founder's Wake-Up Call After $100M Scale", link: "https://www.forbes.com/sites/meganbruneau/2025/06/21/my-kidneys-shut-downilia-beauty-founders-wake-up-call-after-scaling-to-100m/", date: "2025-06" }, { title: "Ilia Beauty Taps Haim to Front its New Campaign", link: "https://wwd.com/pop-culture/new-fashion-releases/ilia-beauty-haim-campaign-1239001235/", date: "" }] },
+      news: [{ title: "'My Kidneys Shut Down'—Ilia Beauty Founder's Wake-Up Call After $100M Scale", link: "https://www.forbes.com/sites/meganbruneau/2025/06/21/my-kidneys-shut-downilia-beauty-founders-wake-up-call-after-scaling-to-100m/", date: "2025-06" }, { title: "Ilia Beauty Taps Haim to Front its New Campaign", link: "https://wwd.com/pop-culture/new-fashion-releases/ilia-beauty-haim-campaign-1239001235/", date: "" }] },
     { name: "Youth To The People", heroProduct: "Superfood Cleanser", priceRange: "$16–$58",
       retailer: "Sephora, Target",
       imageUrl: "https://target.scene7.com/is/image/Target/GUEST_3c8e2dc5-0100-4a84-b221-bc88da8bc194?wid=300&hei=300&fmt=pjpeg",
@@ -630,7 +630,7 @@ HTML_CONTENT = """<!DOCTYPE html>
         "발랄하고 여성스러운 브랜드 이미지와 재미있는 패키지 디자인으로 차별화되는 감성 마케팅에 특화됐다.",
         "전 세계에서 7초에 하나씩 팔린다는 베스트셀러 마스카라 Better Than Sex로 대표되며, 크루얼티프리 인증과 다양한 비건 옵션을 갖추고 있다."
       ],
-      news: [{ title: "How Est챕e Lauder's Too Faced Created Its First AI Ad Campaign With Adobe", link: "https://www.retailbrew.com/stories/2025/10/30/how-estee-lauder-s-too-faced-created-its-first-ai-ad-campaign-with-adobe", date: "2025-10" }, { title: "Too Faced Joins Amazon's Premium Beauty Store", link: "https://www.retaildive.com/news/too-faced-amazon-premium-beauty-store/718694/", date: "" }] },
+      news: [{ title: "How Estée Lauder's Too Faced Created Its First AI Ad Campaign With Adobe", link: "https://www.retailbrew.com/stories/2025/10/30/how-estee-lauder-s-too-faced-created-its-first-ai-ad-campaign-with-adobe", date: "2025-10" }, { title: "Too Faced Joins Amazon's Premium Beauty Store", link: "https://www.retaildive.com/news/too-faced-amazon-premium-beauty-store/718694/", date: "" }] },
     { name: "Urban Decay", heroProduct: "Naked3 Eyeshadow Palette", priceRange: "$19–$59",
       retailer: "Ulta Beauty, Sephora",
       imageUrl: "https://media.ulta.com/i/ulta/2266731?w=500&h=500",
